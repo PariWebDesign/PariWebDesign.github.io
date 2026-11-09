@@ -1,0 +1,26 @@
+SOMIIL GUPTA WEBSITE — START HERE
+
+1. Install VS Code and Node.js if you do not already have them.
+2. Open Somiil-Website.code-workspace in VS Code.
+3. Open Terminal > New Terminal.
+4. Run: npm run dev
+5. Open http://localhost:8080
+
+EDIT SOURCE FILES ONLY INSIDE src/
+Do not manually edit dist/. It is generated automatically.
+
+MAIN PAGES:
+Home: src/index.html
+Business Astro Vastu: src/pages/business-astro-vastu.html
+Factory & Warehouse: src/pages/factory-warehouse-vastu.html
+Home Vastu: src/pages/home-vastu.html
+About: src/pages/about.html
+How It Works: src/pages/how-it-works.html
+Vastu in Australia: src/pages/vastu-in-australia.html
+Book: src/pages/book.html
+Insights: src/pages/insights.html
+
+MAIN DESIGN/COLORS: src/assets/styles.css
+CONTACT/BOOKING DETAILS: src/assets/config.js
+HEADER/NAV: src/components/header.html
+FOOTER: src/components/footer.html

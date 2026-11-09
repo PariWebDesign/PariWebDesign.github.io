@@ -1,0 +1,50 @@
+{
+  "name": "Somiil Gupta",
+  "role": "Business MahaVastu Consultant",
+  "domain": "https://vastuwithsomiil.com",
+  "email": "vastuwithsomiil@gmail.com",
+  "whatsappDisplay": "+91 80819 22432",
+  "diagnosticPrice": "A$249",
+  "nav": [
+    {
+      "label": "Home",
+      "url": "/",
+      "key": "home"
+    },
+    {
+      "label": "Business Astro Vastu",
+      "url": "/business-astro-vastu/",
+      "key": "business"
+    },
+    {
+      "label": "Factory & Warehouse",
+      "url": "/factory-warehouse-vastu/",
+      "key": "factory"
+    },
+    {
+      "label": "Home Vastu",
+      "url": "/home-vastu/",
+      "key": "home-vastu"
+    },
+    {
+      "label": "How It Works",
+      "url": "/how-it-works/",
+      "key": "how"
+    },
+    {
+      "label": "Vastu in Australia",
+      "url": "/vastu-in-australia/",
+      "key": "australia"
+    },
+    {
+      "label": "About",
+      "url": "/about/",
+      "key": "about"
+    },
+    {
+      "label": "Insights",
+      "url": "/insights/",
+      "key": "insights"
+    }
+  ]
+}

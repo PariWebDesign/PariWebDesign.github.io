@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "dist": false,
+      "node_modules": true
+    },
+    "search.exclude": {
+      "dist": true
+    },
+    "editor.formatOnSave": true
+  }
+}
